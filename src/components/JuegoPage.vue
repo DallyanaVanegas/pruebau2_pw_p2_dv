@@ -39,8 +39,8 @@ export default {
   data() {
     return {
       mensaje:"",
-      numPuntaje: 12,
-      numIntento: 1,
+      numPuntaje: 0,
+      numIntento: 5,
       pokemonAr: [],
       nombres: ["xxxxxxxx", "xxxxxxxx", "xxxxxxxx"],
       imagenes: [
